@@ -6,3 +6,9 @@ for (let i=2;i<n;i++){
         k=false
     }
 } console.log(k)
+for(let i=2; i<Number; i++){
+    if (i%num==0){
+        return false 
+    }
+    return true 
+}
