@@ -1,4 +1,5 @@
 let n=6
+let p=8
 let k=true
 for (let i=2;i<n;i++){
     if (n%i==0){
