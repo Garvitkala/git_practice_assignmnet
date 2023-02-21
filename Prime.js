@@ -7,6 +7,7 @@ for (let i=2;i<n;i++){
     if (n%i==0){
         k=false
     }
+
     else{
         k=true;
     }
